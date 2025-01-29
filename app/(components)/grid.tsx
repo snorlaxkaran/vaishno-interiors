@@ -49,7 +49,7 @@ const Grid = () => {
           </div>
         </div>
       </div>
-      <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center space-x-6">
+      <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">02</p>
         <div className="max-w-lg flex flex-col gap-4">
           <h2 className="text-3xl eb-garamond tracking-wide">
@@ -72,7 +72,7 @@ const Grid = () => {
           />
         </div>
       </div>
-      <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center space-x-6">
+      <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">03</p>
         <div className="max-w-lg flex flex-col gap-4">
           <h2 className="text-3xl eb-garamond tracking-wide">
