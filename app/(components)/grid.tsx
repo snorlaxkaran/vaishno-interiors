@@ -80,9 +80,9 @@ const Grid = () => {
           </h2>
           <p className="leading-6">
             Our designers source from 100+ home brands, ensuring every space is
-            unique. Leverage Maa Vaishno Interiors' proprietary platform with a
-            simple, consolidated checkout and never overpay with our price
-            guarantee.
+            unique. Leverage Maa Vaishno Interiors&apos; proprietary platform
+            with a simple, consolidated checkout and never overpay with our
+            price guarantee.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-1">
