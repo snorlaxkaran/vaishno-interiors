@@ -17,9 +17,11 @@ const Grid = () => {
           </p>
         </div>
         <div className="grid grid-flow-col grid-rows-3 gap-1 max-h-64">
-          <div className="row-span-3 bg-black w-52 rounded-md overflow-hidden">
+          <div className="row-span-3 bg-black w-52 rounded-l overflow-hidden">
             <Image
-              src={"/pexels-danielnouri-10135334.jpg"}
+              src={
+                "/Screenshot_2024-11-11-19-39-14-58_7352322957d4404136654ef4adb64504.jpg"
+              }
               className="w-full h-full object-cover"
               width={100}
               height={100}
@@ -27,9 +29,9 @@ const Grid = () => {
               unoptimized
             />
           </div>
-          <div className="col-span-2 bg-black  rounded-md overflow-hidden">
+          <div className="col-span-2 bg-black  rounded-r overflow-hidden">
             <Image
-              src={"/pexels-heyho-7031403.jpg"}
+              src={"/IMG_20241112_014747.jpg"}
               className="h-full w-full object-cover"
               width={100}
               height={100}
@@ -37,9 +39,9 @@ const Grid = () => {
               unoptimized
             />
           </div>
-          <div className="col-span-2 row-span-2 bg-black  rounded-md  overflow-hidden">
+          <div className="col-span-2 row-span-2 bg-black  rounded-r  overflow-hidden">
             <Image
-              src={"/pexels-curtis-adams-1694007-3288103.jpg"}
+              src={"/IMG_20241112_014645.jpg"}
               className="h-full w-full object-cover"
               width={100}
               height={100}
@@ -63,7 +65,7 @@ const Grid = () => {
         </div>
         <div className=" bg-black rounded-md max-h-52 overflow-hidden">
           <Image
-            src={"/pexels-danielnouri-10135334.jpg"}
+            src={"/IMG-20241005-WA0017.jpg"}
             className="w-full h-full object-cover"
             width={100}
             height={100}

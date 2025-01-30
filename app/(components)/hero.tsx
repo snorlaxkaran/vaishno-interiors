@@ -5,7 +5,8 @@ const Hero = () => {
   return (
     <div
       style={{
-        backgroundImage: "url('/pexels-pixabay-271624.jpg')",
+        backgroundImage:
+          "url('/Screenshot_2024-11-11-19-39-14-58_7352322957d4404136654ef4adb64504.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "100vh",
@@ -20,7 +21,9 @@ const Hero = () => {
         <h1 className="lg:text-7xl text-5xl">
           Stunning interior design services, now within reach.
         </h1>
-        <Button className="start-0">hello</Button>
+        <div className="font-[family-name:var(--font-geist-sans)]">
+          <Button className="start-0 bg-[]">Contact us</Button>
+        </div>
       </div>
     </div>
   );
