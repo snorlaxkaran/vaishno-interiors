@@ -3,7 +3,7 @@ import React from "react";
 
 const Grid = () => {
   return (
-    <div className="flex-col flex space-y-16 p-4">
+    <div className="flex-col flex space-y-28 p-4 py-14">
       <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:text-left md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">01</p>
         <div className="max-w-lg flex flex-col gap-4">
@@ -63,7 +63,7 @@ const Grid = () => {
             rendering of the design in your actual space.
           </p>
         </div>
-        <div className=" bg-black rounded-md max-h-52 overflow-hidden">
+        <div className=" bg-black rounded-md max-h-64 overflow-hidden">
           <Image
             src={"/IMG-20241005-WA0017.jpg"}
             className="w-full h-full object-cover"

@@ -1,10 +1,11 @@
 import React from "react";
 import Grid from "./(components)/grid";
 import Hero from "./(components)/hero";
+import Separation from "./(components)/separation";
 
 const page = () => {
   return (
-    <div className="">
+    <div className="flex flex-col">
       <Hero />
       <section
         className="max-w-6xl overflow-hidden
@@ -15,6 +16,9 @@ const page = () => {
         </div>
         <Grid />
       </section>
+      <div>
+        <Separation />
+      </div>
     </div>
   );
 };

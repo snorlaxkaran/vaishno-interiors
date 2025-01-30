@@ -14,7 +14,7 @@ const Hero = () => {
       }}
       className="relative"
     >
-      <div className="bg-[#f3f0eb] text-[#362b24] py-5 px-10 w-full lg:max-w-[46rem] eb-garamond tracking-wide absolute lg:top-1/2 lg:-translate-y-1/2 lg:ml-20 flex flex-col gap-10">
+      <div className="bg-[#f3f0eb] text-[#362b24] py-7 px-10 w-full lg:max-w-[46rem] eb-garamond tracking-wide absolute lg:top-1/2 lg:-translate-y-1/2 lg:ml-20 flex flex-col gap-10">
         <p className="text-center uppercase font-[family-name:var(--font-geist-sans)] text-sm font-semibold">
           Interior Design Service
         </p>
@@ -22,7 +22,9 @@ const Hero = () => {
           Stunning interior design services, now within reach.
         </h1>
         <div className="font-[family-name:var(--font-geist-sans)]">
-          <Button className="start-0 bg-[]">Contact us</Button>
+          <Button className="start-0 bg-orange-300 rounded-full text-xl px-7 py-5 text-[#362b24] ">
+            Contact us
+          </Button>
         </div>
       </div>
     </div>
