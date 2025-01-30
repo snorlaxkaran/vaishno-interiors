@@ -4,7 +4,7 @@ const Separation = () => {
   return (
     <div className="bg-[#E0DFAF] text-[#362b24] ">
       <div className=" max-w-6xl mx-auto m-4 grid grid-cols-1 eb-garamond md:grid-cols-2 ">
-        <h1 className="md:text-5xl text-2xl my-16">
+        <h1 className="md:text-5xl text-3xl my-16 mx-4">
           Our interior design services are tailored to your space, style, and
           budget.
         </h1>
