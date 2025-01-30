@@ -7,7 +7,7 @@ const Grid = () => {
       <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:text-left md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">01</p>
         <div className="max-w-lg flex flex-col gap-4">
-          <h2 className="text-3xl eb-garamond tracking-wide">
+          <h2 className="text-3xl eb-garamond tracking-wider">
             Match with a Reliable Designer in Jaipur and Get Inspired.
           </h2>
           <p className="leading-6">
@@ -54,7 +54,7 @@ const Grid = () => {
       <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:text-left md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">02</p>
         <div className="max-w-lg flex flex-col gap-4">
-          <h2 className="text-3xl eb-garamond tracking-wide">
+          <h2 className="text-3xl eb-garamond tracking-wider">
             Collaborate 1:1 with your designer to create your perfect space.
           </h2>
           <p className="leading-6">
@@ -77,20 +77,20 @@ const Grid = () => {
       <div className="md:grid md:grid-cols-[1fr_4fr_3fr] flex flex-col text-center md:text-left md:space-y-0 space-y-10 md:space-x-6">
         <p className="eb-garamond text-4xl">03</p>
         <div className="max-w-lg flex flex-col gap-4">
-          <h2 className="text-3xl eb-garamond tracking-wide">
-            Bring your design home with ease.
+          <h2 className="text-3xl eb-garamond tracking-wider">
+            Elevate Your Space with Effortless Design
           </h2>
           <p className="leading-6">
-            Our designers source from 100+ home brands, ensuring every space is
-            unique. Leverage Maa Vaishno Interiors&apos; proprietary platform
-            with a simple, consolidated checkout and never overpay with our
-            price guarantee.
+            Our experts source from 100+ premium brands to craft stunning
+            staircase railings and windows. With Maa Vaishno Interiors’
+            proprietary platform, enjoy a seamless experience, a simple
+            checkout, and our price guarantee—ensuring you never overpay.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-1">
           <div className=" bg-black rounded-l-md max-h-52 overflow-hidden">
             <Image
-              src={"/pexels-huy-phan-316220-30387000.jpg"}
+              src={"/IMG_20241112_014633.jpg"}
               className="w-full h-full object-cover"
               width={100}
               height={100}
@@ -100,7 +100,7 @@ const Grid = () => {
           </div>
           <div className=" bg-black rounded-r-md max-h-52 overflow-hidden">
             <Image
-              src={"/pexels-tugce-gul-2149079650-30419658.jpg"}
+              src={"/IMG-20241225-WA0063.jpg"}
               className="w-full h-full object-cover"
               width={100}
               height={100}

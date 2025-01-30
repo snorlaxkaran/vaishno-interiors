@@ -22,7 +22,7 @@ const Hero = () => {
           Stunning interior design services, now within reach.
         </h1>
         <div className="font-[family-name:var(--font-geist-sans)]">
-          <Button className="start-0 bg-orange-300 rounded-full text-xl px-7 py-5 text-[#362b24] ">
+          <Button className="start-0 bg-orange-300 rounded-full text-xl px-7 py-5 text-[#362b24] hover:text-white">
             Contact us
           </Button>
         </div>
