@@ -8,12 +8,12 @@ const Grid = () => {
         <p className="eb-garamond text-4xl">01</p>
         <div className="max-w-lg flex flex-col gap-4">
           <h2 className="text-3xl eb-garamond tracking-wide">
-            Match with one of our talented designers and get inspired.
+            Match with a Reliable Designer in Jaipur and Get Inspired.
           </h2>
           <p className="leading-6">
-            With 10 years of experience in all 50 states and 100,000+ designs,
-            we’ll help you hone your style, get inspired, and realize your
-            design dreams for your specific space.
+            With 10 years of experience, 1,000+ designs, and a strong presence
+            in Jaipur, we’ll help you refine your style, find inspiration, and
+            bring your design dreams to life for your unique space.
           </p>
         </div>
         <div className="grid grid-flow-col grid-rows-3 gap-1 max-h-64">
@@ -79,9 +79,10 @@ const Grid = () => {
             Bring your design home with ease.
           </h2>
           <p className="leading-6">
-            Our designers source from 100+ home brands so no two spaces are ever
-            alike. Leverage Havenly’s proprietary platform with a simple
-            consolidated checkout and never overpay with our price guarantee.
+            Our designers source from 100+ home brands, ensuring every space is
+            unique. Leverage Maa Vaishno Interiors' proprietary platform with a
+            simple, consolidated checkout and never overpay with our price
+            guarantee.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-1">
